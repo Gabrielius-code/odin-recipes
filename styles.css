@@ -1,0 +1,22 @@
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 50px;
+  text-align: center;
+  font-style: italic;
+  background-color: #000;
+  color: #fff;
+  margin: 0px;
+  margin-bottom: 20px;
+}
+
+li {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  list-style: square;
+  font-size: 32px;
+}
+a:link,
+a:hover,
+a:active,
+a:active {
+  text-decoration: none;
+}
